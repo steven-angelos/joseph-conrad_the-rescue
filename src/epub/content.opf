@@ -153,12 +153,15 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="preface.xhtml"/>
 		<itemref idref="epigraph.xhtml"/>
+		<itemref idref="dedication.xhtml"/>
+		<itemref idref="preface.xhtml"/>
+		<itemref idref="part-1.xhtml"/>
 		<itemref idref="chapter-1-1.xhtml"/>
 		<itemref idref="chapter-1-2.xhtml"/>
 		<itemref idref="chapter-1-3.xhtml"/>
 		<itemref idref="chapter-1-4.xhtml"/>
+		<itemref idref="part-2.xhtml"/>
 		<itemref idref="chapter-2-1.xhtml"/>
 		<itemref idref="chapter-2-2.xhtml"/>
 		<itemref idref="chapter-2-3.xhtml"/>
@@ -166,6 +169,7 @@
 		<itemref idref="chapter-2-5.xhtml"/>
 		<itemref idref="chapter-2-6.xhtml"/>
 		<itemref idref="chapter-2-7.xhtml"/>
+		<itemref idref="part-3.xhtml"/>
 		<itemref idref="chapter-3-1.xhtml"/>
 		<itemref idref="chapter-3-2.xhtml"/>
 		<itemref idref="chapter-3-3.xhtml"/>
@@ -176,17 +180,20 @@
 		<itemref idref="chapter-3-8.xhtml"/>
 		<itemref idref="chapter-3-9.xhtml"/>
 		<itemref idref="chapter-3-10.xhtml"/>
+		<itemref idref="part-4.xhtml"/>
 		<itemref idref="chapter-4-1.xhtml"/>
 		<itemref idref="chapter-4-2.xhtml"/>
 		<itemref idref="chapter-4-3.xhtml"/>
 		<itemref idref="chapter-4-4.xhtml"/>
 		<itemref idref="chapter-4-5.xhtml"/>
+		<itemref idref="part-5.xhtml"/>
 		<itemref idref="chapter-5-1.xhtml"/>
 		<itemref idref="chapter-5-2.xhtml"/>
 		<itemref idref="chapter-5-3.xhtml"/>
 		<itemref idref="chapter-5-4.xhtml"/>
 		<itemref idref="chapter-5-5.xhtml"/>
 		<itemref idref="chapter-5-6.xhtml"/>
+		<itemref idref="part-6.xhtml"/>
 		<itemref idref="chapter-6-1.xhtml"/>
 		<itemref idref="chapter-6-2.xhtml"/>
 		<itemref idref="chapter-6-3.xhtml"/>
@@ -196,13 +203,6 @@
 		<itemref idref="chapter-6-7.xhtml"/>
 		<itemref idref="chapter-6-8.xhtml"/>
 		<itemref idref="chapter-6-9.xhtml"/>
-		<itemref idref="dedication.xhtml"/>
-		<itemref idref="part-1.xhtml"/>
-		<itemref idref="part-2.xhtml"/>
-		<itemref idref="part-3.xhtml"/>
-		<itemref idref="part-4.xhtml"/>
-		<itemref idref="part-5.xhtml"/>
-		<itemref idref="part-6.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>

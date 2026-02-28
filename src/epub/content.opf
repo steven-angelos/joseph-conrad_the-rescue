@@ -63,17 +63,17 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1712</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://archive.org/details/bwb_S0-AUQ-279</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Rescue_(Conrad_novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_the-rescue</meta>
 		<dc:creator id="author">Joseph Conrad</dc:creator>
 		<meta property="file-as" refines="#author">Conrad, Joseph</meta>
 		<meta property="se:name.person.full-name" refines="#author">Józef Teodor Konrad Korzeniowski</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Joseph_Conrad</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://en.wikipedia.org/wiki/Joseph_Conrad</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79054067</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
@@ -90,7 +90,7 @@
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Steven Angelos</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Angelos, Steven</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/steven-angelos</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
